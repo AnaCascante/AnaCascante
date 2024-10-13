@@ -9,12 +9,49 @@ I am dedicated to building a strong foundation in frontend development, focusing
 <!-- Icons for each tool, you can find relevant icons on platforms like [Simple Icons](https://simpleicons.org/) -->
 Languages & Frameworks:
 
-
+HTML 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+CSS 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+TailwindCSS  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
+Bootstrap  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
+Javascript  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+TypeScript  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+React   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+Vite   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+           
+Node.js   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
 
 
 
 
 Other Tools & Platforms:
+
+Git  
+GitHub
+npm 
+ESLint
+WordPress 
+Figma
+Adobe XD 
+Visual Studio Code 
+Netlify 
+Render 
 
 
 
