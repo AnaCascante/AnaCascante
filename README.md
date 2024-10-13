@@ -9,10 +9,10 @@ I am dedicated to building a strong foundation in frontend development, focusing
 <!-- Icons for each tool, you can find relevant icons on platforms like [Simple Icons](https://simpleicons.org/) -->
 Languages & Frameworks:
 
-HTML 
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           
-CSS 
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
           
 TailwindCSS  
