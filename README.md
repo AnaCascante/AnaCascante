@@ -20,6 +20,8 @@ I am dedicated to building a strong foundation in frontend development, focusing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacascante&show_icons=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacascante&show_icons=true)
+![Language stats](https://lang-stats.vercel.app/api?username=anacascante)
 
 
 
